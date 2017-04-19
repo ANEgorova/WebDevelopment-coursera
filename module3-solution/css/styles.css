@@ -1,0 +1,40 @@
+ .navbar > .container-fluid .navbar-brand {
+    margin: 10px;
+    padding: 5px;
+    height: auto;
+}
+
+.text {
+    padding: 10px;
+    background-color: darkgrey;
+    margin: 15px;
+}
+
+.container-fluid {
+    margin: 0;
+    padding: 0;
+}
+
+h3 {
+    margin: 0px;
+}
+h1.text-center {
+    margin-bottom: 0;
+}
+
+.container-fluid > .navbar-header {
+    margin: 0;
+}
+
+.navbar-nav {
+    margin: 0;
+}
+
+
+p.text-center {
+    margin: 5px;
+}
+
+hr {
+    margin: 0;
+}
